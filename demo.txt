@@ -1,0 +1,5 @@
+﻿Get-Process
+
+get-history
+
+invoke-webrequest -uri http://www.google.com -UseBasicParsing
